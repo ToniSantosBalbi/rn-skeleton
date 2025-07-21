@@ -1,5 +1,5 @@
 {
-  "name": "rn-skeleton",
+  "name": "@tonisantosbalbi/rn-skeleton",
   "version": "1.0.0",
   "description": "A customizable skeleton loading component for React Native with support for complex layouts",
   "main": "lib/index.js",
